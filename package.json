@@ -1,0 +1,7 @@
+{
+    "name": "node-api",
+    "main": "app.js",
+    "dependencies": {
+       
+    }
+}
